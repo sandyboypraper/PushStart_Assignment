@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'forhed';
+    src: url('./external/fonts/sf-ui-display-light-58646b33e0551.otf')format("opentype");
+}
+
+@font-face{
+    font-family: 'fortext';
+    src: url('./external/fonts/SFUIText-Light.ttf');
+}
+
+.HED{
+    font-family: 'forhed';
+}
+
+.TEXT{
+    font-family: 'fortext';
+}
+
+.BHED{
+    font-family: 'forhed';
+    font-weight: bold !important;
+    letter-spacing: 3px;
+}
+
+.BNHED{
+    font-family: 'forhed';
+    font-weight: bold !important;
+    letter-spacing: 3px;
+    font-size: 15px !important;
+    margin-top: 10px !important;
+}
+
+.STEXT{
+    font-family: 'fortext';
+    font-size: 11px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+
+text.inner-circle{
+    font-family: 'forhed';
+    font-size: 20px;
+}
+
+text.bold{
+    font-family: 'forhed';
+
+    font-weight: bold !important;
+
+    font-size: 50px;
+}
+
+.diffcolor{
+    color: darkred;
+}
+
+text.reddish{
+    font-family: 'fortext';
+    font-weight: bold !important;
+    font-size: 35px;
+    color: red;
+}
+
+text.smallt{
+    font-family: 'forhed';
+    font-size: 15px;
+}
+
+.green{
+color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+.lightblue{
+    color: lightblue;
+}
+
+.orrange{
+    color: darkorange;
+}
+
+.lightorrange{
+    color: orange;
+}
+
+svg {
+    font-family: 'forhed', Arial;
+}
+.line {
+  stroke-width: 3 !important;
+  fill: none;
+}
+
+.axis path {
+  stroke: rgba(222, 229, 229 , 0.5);
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}
+
+.zeromar{
+    margin: 0px !important;
+}
+
+.center{
+    padding: 20px 30px !important;
+}
+
+.myboxi{
+    padding: 20px 30px 20px 30px !important;
+}
+
+.paddlit{
+    padding: 0px 20px 0px 20px !important;
+}
+
+.paddlitt{
+    padding: 0px 40px 0px 40px !important;
+}
+
+.grey{
+    color: grey;
+}

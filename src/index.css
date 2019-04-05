@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.mybox{
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+}
+
+.mynav{
+  padding: 10px 0px 10px 0 !important;
+  margin: 0 !important;
+}
+
+.right{
+  float: right !important;
+}
+
+hr{
+  margin: 0 !important;
+}
+
+.myicon{
+  margin-right: 5px !important;
+  color:#538fef;
+}
+
+.rotright{
+  transform: rotate(90deg) !important;
+}
+
+.mynavsp{
+  margin: 0 40px 0 10px !important;
+}
+
+.mynavr8{
+  margin: 0 10px 0 5px !important;
+}
+
+.dark{
+  color: grey;
+}
+
+.mylogo{
+  margin: 0 30px 0 30px !important;
+}
+
+.testcomp{
+  margin: 100px 400px 100px 400px !important;
+}
+
+.margtop{
+  margin-top: 15px !important;
+}
+
+.normpadd{
+  padding: 10px;
+}
+
+.mycard{
+  padding: 10px 15px 3px 15px !important;
+  box-shadow: 0px 1px 2px 0.1px !important;
+}
+
+.margleft{
+  margin-left: 30px !important;
+}
+
+.margright{
+  margin-right: 30px !important;
+}
